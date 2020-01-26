@@ -1,0 +1,16 @@
+{
+  "name": "node-csv-example",
+  "version": "1.0.0",
+  "description": "Small script to show how to use package to read/write csvs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": "git@github.com:teamzerolabs/node-csv-example.git",
+  "author": "Jack Yeh <yayajacky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^4.5.4",
+    "neat-csv": "^5.1.0"
+  }
+}
